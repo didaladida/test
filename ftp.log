@@ -1,0 +1,4 @@
+Tue, 14 Jun 2016 16:48:58  util_ftp.py[line:48] INFO connected to host "115.28.150.133" 
+Tue, 14 Jun 2016 16:48:58  util_ftp.py[line:56] INFO login success "115.28.150.133"
+Tue, 14 Jun 2016 16:48:58  util_ftp.py[line:64] INFO change dir to "public"
+Tue, 14 Jun 2016 16:48:58  util_ftp.py[line:84] INFO 已经同步
